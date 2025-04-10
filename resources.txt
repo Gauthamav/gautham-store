@@ -1,0 +1,47 @@
+============ Color's ===========
+--heading : #393A56;
+--text : #7E7F85;
+--theme : #FD5353;
+--bg : #F7F8F9;
+--footerBg : #415161;
+
+
+=========== Icon's =============
+black star  : &#9733;
+white star  : &#9734;
+Arrow       : &#8594;	
+
+
+============ Google Font  ============
+Poppins : https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600
+
+
+=========== Other Videos =============
+Complete Responsive Travel Website : https://youtu.be/ZdJSHEczi_0
+
+=========== Social =============
+Yotube      : https://www.youtube.com/c/GowthamTirri
+Instagram   : https://www.instagram.com/gowthamtirri
+@media(max-width:50em)
+{
+ .navlink{
+    position: absolute;
+    top: 7rem;
+    left: 0;
+    right:0;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    background-color:#415161 ;
+    gap: 0;
+ }
+ .navlink a{
+    color: whitesmoke;
+ }
+ .navlink li{
+    margin: 2rem 0rem;
+ }
+
+
+
+}
